@@ -1,6 +1,7 @@
+> All code and text in this repository are by [Angus Croll](https://github.com/angus-c), you can find his full book [right here](https://nostarch.com/hemingway).  
+
 __If Hemingway Wrote JavaScript__
 
-> All code and text in this repository are by [Angus Croll](https://github.com/angus-c), you can find his full book [right here](https://nostarch.com/hemingway).  
 
 Recently I had a dream in which I assigned homework to Ernest Hemingway and 24 other literary luminaries. Each author received one of five tasks — common coding problems, mostly mathematical — they were to solve using JavaScript.
 
